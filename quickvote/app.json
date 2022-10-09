@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "quickvote",
+    "slug": "quickvote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

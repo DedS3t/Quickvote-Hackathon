@@ -1,0 +1,11 @@
+{
+  "name": "quickvote-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "node-rsa": "^1.1.1"
+  }
+}
